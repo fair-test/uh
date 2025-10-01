@@ -1,0 +1,31 @@
+{
+  "name": "uh",
+  "@context": "https://w3id.org/codemeta/3.0",
+  "author": [
+    {
+      "affiliation": {
+        "name": "FAIR Data Innovations Hub",
+        "type": "Organization"
+      },
+      "email": "wheresdorian@gmail.com",
+      "familyName": "Portillo",
+      "id": "_:author_1",
+      "givenName": "Dorian",
+      "type": "Person"
+    }
+  ],
+  "codeRepository": "https://github.com/fair-test/uh",
+  "dateCreated": "2025-10-01",
+  "description": "efasdf",
+  "issueTracker": "https://github.com/fair-test/uh/issues",
+  "keywords": [
+    "dfasdf",
+    "dfasdf"
+  ],
+  "license": "https://spdx.org/licenses/MIT",
+  "programmingLanguage": [
+    "C#",
+    "Cobol"
+  ],
+  "type": "SoftwareSourceCode"
+}
