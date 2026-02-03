@@ -1,19 +1,43 @@
-title: testing-software name here
+title: SODA (Software to Organize Data Automatically) for SPARC
 authors:
+  - given-names: Aaron
+    family-names: Marroquin
+    email: cmarroquin@calmi2.org
+    affiliation: FAIR Data Innovations Hub, California Medical Innovations Institute
+  - given-names: Jacob
+    family-names: Clark
+    email: jclark@calmi2.org
+    affiliation: FAIR Data Innovations Hub, California Medical Innovations Institute
   - given-names: Dorian
     family-names: Portillo
-    email: wheresdorian@gmail.com
-    affiliation: FAIR Data Innovations Hub
+    email: dportillo@calmi2.org
+    affiliation: FAIR Data Innovations Hub, California Medical Innovations Institute
+  - given-names: Sanjay
+    family-names: Soundarajan
+    email: ssoundarajan@calmi2.org
+    affiliation: FAIR Data Innovations Hub, California Medical Innovations Institute
+  - given-names: Tram
+    family-names: Ngo
+    affiliation: FAIR Data Innovations Hub, California Medical Innovations Institute
+  - given-names: Bhavesh
+    family-names: Patel
+    email: bpatel@calmi2.org
+    affiliation: FAIR Data Innovations Hub, California Medical Innovations Institute
 cff-version: 1.2.0
 message: If you use this software, please cite it using the metadata from this file.
 type: software
-abstract: efasdf
+doi: 10.5281/zenodo.340781
+abstract: Simplifying data curation for researchers funded by the NIH SPARC initiative
 keywords:
-  - fasd
-  - dfffd
-  - fdfd
+  - SPARC
+  - FAIR
+  - data
+  - curation
+  - mac
+  - sparc-dataset
+  - ubuntu
+  - windows
 license: MIT
-repository-code: https://github.com/fair-test/uh
-doi: 10.5281/zenodo.340780
-date-released: '2025-10-02'
-version: 984.215.2116
+repository-code: https://github.com/fairdataihub/SODA-for-SPARC
+date-released: '2025-12-10'
+version: '1125.33565'
